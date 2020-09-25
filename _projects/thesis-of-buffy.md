@@ -10,3 +10,9 @@ published: false
 # Overview
 
 Buffy & Angel were on TV for Years
+
+## Class Details
+
+Now you can learn all about the power that Buffy and Angel held through this interactive class
+
+![](/uploads/2018/02/17/building3.jpg)
